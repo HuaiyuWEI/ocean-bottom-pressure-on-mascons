@@ -1,0 +1,1 @@
+The file specifying the mascon grid that I am using is "GRCTellus.JPL.200204_202503.GLO.RL06.3M.MSCNv04CRI", which can be downloaded from https://podaac.jpl.nasa.gov/dataset/TELLUS_GRAC-GRFO_MASCON_CRI_GRID_RL06.3_V4
