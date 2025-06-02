@@ -11,7 +11,7 @@ addpath(genpath('D:\OneDrive - University of California\MATLAB Codes\MOC\CMIP6_2
 
 %% load basin mask
 
-BasinMasksFN = 'D:\OneDrive - University of California\MATLAB Codes\MOC\CMIP6\BasinMask\BasinMasks_CM4.mat';
+BasinMasksFN = '\BasinMasks_CM4.mat';
 load(BasinMasksFN)
 
 pcolor(X,Y,MaskAtl)
@@ -191,5 +191,7 @@ colorbar
     %%% Clean up for next loop
     clear Input_vars Input_vars_gr F
 end
+
+
 
 
